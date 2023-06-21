@@ -1,0 +1,3 @@
+export TF_VAR_dev_username=Brandon
+export TF_VAR_dev_password=admin
+echo $TF_VAR_dev_password
